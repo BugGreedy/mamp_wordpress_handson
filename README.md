@@ -1,5 +1,7 @@
 # MAMP_WordPress_handson
 MAMP(Mac/Apache/mysql/php)にてローカル環境を構築し、WordPress内のphpを編集できるようにする。</br>
+のち、オリジナルテーマを作成。</br>
+Git管理についても記載。</br>
 
 ### 1 導入手順</br>
 1. MAMPのDL/インストール
