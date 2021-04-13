@@ -48,7 +48,7 @@ WordPressのカスタマイズは主にメインテーマで制御される。�
 </br>
 今回はこのディレクトリをMAMPとWordPressのハンズオンとしてプッシュし、以後はテーマディレクトリの内容を編集していく。</br>
 
-### 4 テーマディレクトリをWordPress全体のGitから除外するように設定
+### 4 オリジナルテーマのディレクトリをWordPress全体のGitから除外するように設定
 1. */Applications/MAMP/htdocs/mamp_wordpress_handson*(wordpressディレクトリ)内に".ignore"という名前を付けたテキストファイルを作成。(拡張子なし)
 2. ファイルの内容を下記のように記載する。
 ```
