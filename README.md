@@ -7,7 +7,6 @@ Git管理についても記載。</br>
 1. MAMPのDL/インストール
 2. WordPressのDL/解凍
 3. */Applications/MAMP/htdocs*内に2.で解凍したフォルダを配置(名前は何でも良い。今回はディレクトリ名は"mamp_wordpress_handson"とする)</br>
-</br>
 
 ### 2 データベースの作成
 1. MAMPアプリケーションの*WebStart*を押す。</br>
