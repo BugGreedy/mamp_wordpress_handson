@@ -1,7 +1,7 @@
 # MAMP_WordPress_handson
 
 ##  MAMP(Mac/Apache/mysql/php)にてローカル環境を構築し、WordPress内のphpを編集できるようにする。
-- 1. **導入手順**</br>
+1. **導入手順**</br>
 - 1. MAMPのDL/インストール
 - 2. WordPressのDL/解凍
 - 3. */Applications/MAMP/htdocs*内に2.で解凍したフォルダを配置(名前は何でも良い。今回はディレクトリ名は"mamp_wordpress_handson"とする)
